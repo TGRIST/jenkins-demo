@@ -1,0 +1,2 @@
+
+COPY entrypoint.sh /
